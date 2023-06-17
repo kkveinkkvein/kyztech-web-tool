@@ -1,0 +1,8 @@
+version: '1.0.0'
+services:
+  app:
+    image: "kyztech-web-tool"
+    build: .
+    container_name: kyztech-web-tool
+    ports:
+      - "8888:8888"
