@@ -69,7 +69,8 @@
                     { label: '3折', value: 0.7 },
                     { label: '2折', value: 0.8 },
                     { label: '1折', value: 0.9 },
-                    { label: '4.04折', value: 0.596 }
+                    { label: '4.04折(元大)', value: 0.596 },
+                    { label: '3.5折(永豐)', value: 0.65 }
                 ]
             };
         },
